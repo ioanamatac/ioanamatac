@@ -16,7 +16,7 @@ Après une année de formation chez Human Booster :school: Lyon,
 
 en janvier 2020 j'ai obtenu le titre professionnel :woman_student: de Concepteur Développeur d'Applications BAC+4.
 
-Maîtrisant différents langages/frameworks:
+Maîtrisant différents langages/frameworks :point_down:
 
  * Java EE (Spring & Hibernate)
 
@@ -35,7 +35,7 @@ Maîtrisant différents langages/frameworks:
 
 ### 🌱 Qu'est-ce que je fais de beau actuellement ?
 
-Je continue d’enrichir mes connaissances, notamment via le site « OpenClassRooms » :computer:
+Je continue d’enrichir mes connaissances, notamment via le site « OpenClassRooms » :woman_technologist:
 
 Mes cours en ligne avec certifications:
 * Adoptez les API REST pour vos projets web
