@@ -10,7 +10,7 @@ Après une année de formation chez Human Booster :school: Lyon,
    développement d’un module complémentaire pour un logiciel de gestion interne qui permet de gérer le suivi opérationnel et synthétique de l’activité commerciale:
    clients, devis, factures, chiffre d’affaire.
 
-   :point_right: langages & frameworks utilisée:
+   :point_right: langages & frameworks utilisés:
    * back-end Java EE (Spring /Hibernate) 
    * front-end JSP (Javascript, HTML5/Css) 
 
