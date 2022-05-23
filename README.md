@@ -14,7 +14,7 @@ Après une année de formation chez Human Booster :school: Lyon,
    * back-end Java EE (Spring /Hibernate) 
    * front-end JSP (Javascript, HTML5/Css) 
 
-en janvier 2020 j'ai obtenu le titre professionnel :woman_student: de Concepteur Développeur d'Applications BAC+4.
+en janvier 2020 j'ai obtenu le titre professionnel :woman_student: de Concepteur Développeur d'Applications BAC + 3.
 
 Maîtrisant différents langages/frameworks :point_down:
 
@@ -35,9 +35,9 @@ Maîtrisant différents langages/frameworks :point_down:
 
 ### 🌱 Qu'est-ce que je fais de beau actuellement ?
 
-Je continue d’enrichir mes connaissances, notamment via le site « OpenClassRooms » :woman_technologist:
+Je continue d’enrichir mes connaissances, notamment via « Udemy » & « OpenClassRooms » :woman_technologist:
 
-Mes cours en ligne avec certifications:
+Certifications:
 * Adoptez les API REST pour vos projets web
 * Testez votre code Java pour réaliser des applications de qualité
 * Créez des pages web interactives avec JavaScript
