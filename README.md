@@ -35,7 +35,7 @@ Maîtrisant différents langages/frameworks :point_down:
 
 ### 🌱 Qu'est-ce que je fais de beau actuellement ?
 
-Je continue d’enrichir mes connaissances, notamment via « Udemy » & « OpenClassRooms » :woman_technologist:
+Je continue d’enrichir mes connaissances, notamment via le site « Udemy » où « OpenClassRooms » :woman_technologist:
 
 Certifications:
 * Adoptez les API REST pour vos projets web
