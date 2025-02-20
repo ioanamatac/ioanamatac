@@ -14,7 +14,7 @@ Après une année de formation chez Human Booster :school: Lyon,
    * back-end Java EE (Spring /Hibernate) 
    * front-end JSP (Javascript, HTML5/Css) 
 
-en janvier 2020 j'ai obtenu le titre professionnel :woman_student: de Concepteur Développeur d'Applications BAC + 3.
+en janvier 2020 j'ai obtenu le titre professionnel :woman_student: de Concepteur Développeur d'Applications BAC + 4.
 
 Maîtrisant différents langages/frameworks :point_down:
 
@@ -23,14 +23,18 @@ Maîtrisant différents langages/frameworks :point_down:
  * Javascript (Angular)
 
  * PHP (Symfony)
+   
+ * RPG /AS400
 
  * Conception : UML (Unified Modeling Language)
 
  * Base de données:
     * MySQL 
     * NoSQL(Firebase)
+    * PostgreSQL
+    * DB2/AS400
 
-:mega:  je désire exploiter mes compétences en création et développement de logiciels et sites web.
+:mega:  je désire exploiter mes compétences en création et développement de logiciels et applications.
 
 
 ### 🌱 Qu'est-ce que je fais de beau actuellement ?
@@ -57,7 +61,7 @@ Essentiellement sur LinkedIn pour des opportunités professionnelles.
 ### ⚡ Fun facts
 J'aime :
 * :camera: la photographie
-* :running_woman: le jogging (dans l'appart dépuis 2020 👻)
+* :running_woman: le jogging 🐉
 * :airplane: les voyages (😉autour du bâtiment) 
    
    
