@@ -27,12 +27,13 @@ Embedded SQL | Initiations aux Web Services | Langage de contrôle
 >Mon stage💻 Développement d’un module complémentaire pour un logiciel de gestion interne qui permet de gérer le suivi opérationnel et synthétique de l’activité commerciale:
    clients, devis, factures, chiffre d’affaire.
 
-   Langages & frameworks utilisés:
+>Langages & frameworks utilisés:
    * back-end Java EE (Spring /Hibernate) 
    * front-end JSP (Javascript, HTML5/ CSS) 
+   
 
 
->✅ Maîtrisant différents langages/frameworks :point_down:
+### ✅ Maîtrisant différents langages/frameworks :point_down:
 
 
  * Java EE (Spring / Hibernate)
