@@ -10,22 +10,25 @@
 ### Développeuse Progress 4GL, Sistema Strategy 
 Juill. 2022 - Janv. 2023, Lyon
 
->💻Maintenance applicative | Environnement Java : Support applicatif utilisateurs | Langage Progress 4GL
-Gestion des demandes de support pour le suivi de production et maintenance opérationnelle
-Résolution des incidents | Ticketing |
+>💻Projet Maintenance application comptable aides sociales
+Support applicatif utilisateurs | Ticketing | Résolution des incidents
 Développement des procédures correctives base des données
+Langage Progress 4GL | Environnement Progress OpenEdge
 
 ### Développeuse IBM I, RPG, Téréva 
 Sept. 2021 - Nov. 2021, Bourg en Bresse 
   
->💻 Architecture générale IBM I | Développement RPG sur IBM I :
-Base de données sur IBM I | Évolutions de DB2 for i | Langage RPG IV/Free | Appels de programmes
-Embedded SQL | Initiations aux Web Services | Langage de contrôle
+>💻 Projet Maintenance application commerciale
+Support applicatif utilisateurs | Développement RPG IV | Base de données DB2 sur IBM I
+Appels de programmes | Initiations aux Web Services | Embedded SQL
+Langage RPG IV/Free | Environnement IBM I ( AS400)
 ### Développeuse JavaEE , Clélia SA  
    Sept. 2019 - Janv. 2020, Lyon 
     
->Mon stage💻 Développement d’un module complémentaire pour un logiciel de gestion interne qui permet de gérer le suivi opérationnel et synthétique de l’activité commerciale:
-   clients, devis, factures, chiffre d’affaire.
+>Mon stage💻 Projet Stage Développement d'un module statistique logiciel de gestion interne
+L'analyse du besoin | Maquettage avec Balsamiq Mockup | Création RestController | MainController
+Affichage JSON Jackson dependencie | Création packages : Dao, Services, ServicesImpl | JSP(s)
+Languages JavaEE | JavaScript| HTML | CSS | Environnement Java
 
 >Langages & frameworks utilisés:
    * back-end Java EE (Spring /Hibernate) 
@@ -43,6 +46,7 @@ Embedded SQL | Initiations aux Web Services | Langage de contrôle
  * PHP (Symfony)
    
  * RPG IV / Free  IBMi/AS400
+   
  * Progress 4GL
 
  * Conception : UML (Unified Modeling Language)
