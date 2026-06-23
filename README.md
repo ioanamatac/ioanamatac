@@ -4,7 +4,7 @@
 
 ### 🔭 Qui suis-je ?
 
->Après une année de formation chez Human Booster🏫Lyon, en janvier 2020 j'ai obtenu le titre professionnel de 👩🏻‍🎓 Concepteur Développeur d'Applications BAC + 4 🐦‍🔥
+>Après une année de formation chez Human Booster🏫Lyon, en janvier 2020 j'ai obtenu le titre professionnel de 👩🏻‍🎓 Concepteur Développeur d'Applications BAC + 3 🐦‍🔥
 ### EXPÉRIENCES PROFESSIONNELLES 👍
 
 ### Développeuse Progress 4GL, Sistema Strategy 
