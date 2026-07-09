@@ -57,12 +57,13 @@ Languages JavaEE | JavaScript| HTML | CSS | Environnement Java
     * PostgreSQL
     * DB2/AS400
 
-🌐 je désire exploiter mes compétences en création et développement de logiciels et applications.
+🌐 Je continue d’enrichir mes connaissances, notamment via le site « Udemy » où « OpenClassRooms » .
 
 
 ### 🌱 Qu'est-ce que je fais de beau actuellement ?
 
-Je continue d’enrichir mes connaissances, notamment via le site « Udemy » où « OpenClassRooms » 👩🏻‍💻
+
+🧩Aujourd’hui, je fais évoluer mon projet vers l’infrastructure : je me forme au métier de Technicien(ne) Réseaux & Cybersécurité en alternance avec Wild Code School (powered by Simplon). 
 
 ### 🧩 Cours certifies:
 * Adoptez les API REST pour vos projets web
