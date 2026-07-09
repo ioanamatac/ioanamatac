@@ -1,10 +1,14 @@
 ### Bonjour 👋
 
 
-
 ### 🔭 Qui suis-je ?
 
 >Après une année de formation chez Human Booster🏫Lyon, en janvier 2020 j'ai obtenu le titre professionnel de 👩🏻‍🎓 Concepteur Développeur d'Applications BAC + 3 🐦‍🔥
+
+### 🌱 Qu'est-ce que je fais de beau actuellement ?
+
+🧩Aujourd’hui, je fais évoluer mon projet vers l’infrastructure : je me forme au métier de Technicien(ne) Réseaux & Cybersécurité en alternance avec Wild Code School (powered by Simplon). 
+
 ### EXPÉRIENCES PROFESSIONNELLES 👍
 
 ### Développeuse Progress 4GL, Sistema Strategy 
@@ -59,11 +63,6 @@ Languages JavaEE | JavaScript| HTML | CSS | Environnement Java
 
 🌐 Je continue d’enrichir mes connaissances, notamment via le site « Udemy » où « OpenClassRooms » .
 
-
-### 🌱 Qu'est-ce que je fais de beau actuellement ?
-
-
-🧩Aujourd’hui, je fais évoluer mon projet vers l’infrastructure : je me forme au métier de Technicien(ne) Réseaux & Cybersécurité en alternance avec Wild Code School (powered by Simplon). 
 
 ### 🧩 Cours certifies:
 * Adoptez les API REST pour vos projets web
