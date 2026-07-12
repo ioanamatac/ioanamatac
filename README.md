@@ -7,7 +7,7 @@
 
 ### 🌱 Qu'est-ce que je fais de beau actuellement ?
 
-🧩Aujourd’hui, je fais évoluer mon projet vers l’infrastructure : je me forme au métier de Technicien(ne) Réseaux & Cybersécurité en alternance avec Wild Code School (powered by Simplon). 
+🧩Aujourd’hui, je fais évoluer mon projet vers l’infrastructure : je me forme au métier de Technicien(ne) Réseaux en alternance. 
 
 ### EXPÉRIENCES PROFESSIONNELLES 👍
 
